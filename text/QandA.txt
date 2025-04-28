@@ -1,1 +1,33 @@
+<br>
+<br>
+<font face="helvetica"><h2>Quick Questions and Answers:</h2></font>
 
+<p><b>There is a large gender pay gap at the place where I work.  Does this mean that one gender gets paid more than another for doing the same work?</b></p>
+<p>Hopefully not.  The law says that men and women must get equal pay for doing 'equal work'. The <a href="https://www.acas.org.uk/equal-pay/equal-pay-law">ACAS website</a> gives more information about equal pay, and gives advice on what to do if you think you're not getting equal pay for doing equal work.</p>
+
+<p><b>If we get equal pay for equal work, why is there a gender pay gap?</b></p>
+<p>Probably because you're doing different work.<br>
+Imagine a hospital that only employs doctors and nurses.  All doctors here get the same pay.  All nurses here get the same pay, though less than the doctors' pay.  Say half of doctors are women, and half are men.  Say there are eight female nurses for every male nurse.  In this hospital, there are more women on lower pay than men on lower pay.  So the average female pay in the hospital will be lower than average male pay, simply because there are more female nurses than male nurses.</p>
+
+<p><b>What should be done to fix the pay gap?</b></p>
+<p>A good employer will try to understand why there is a gender pay gap, and decide what actions (if any) they should take to address that.  The government has <a href="https://www.gov.uk/government/publications/gender-pay-gap-reporting-guidance-for-employers/closing-your-gender-pay-gap">guidance for employers</a> about it.  It's worth taking a look, even if you're not an employer.  Each employer has to publish their pay gap information on their website (or intranet if they don't have a website).  Employers can choose to publish a supporting narrative and an action plan along with their pay gap information.</p>
+
+<br>
+<font face="helvetica"><h2>How is Gender Pay Gap Information Calculated?</h2></font>
+<p>The following pages cover some of the important bits.  Some of it is directly copied from the full <a href="https://www.gov.uk/government/publications/gender-pay-gap-reporting-guidance-for-employers">instructions for calculation</a> available on Gov.uk.</p>
+
+<p>Any employer with 250 or more employees on a specific date each year (the 'snapshot date') must report their gender pay gap data.<br>
+The snapshot date is 31 March for most public authority employers, and 5 April for everybody else.<br>
+The employer must report and publish their gender pay gap information within a year of the snapshot date.<br>
+They must do this for each separate 'legal entity', if they are part of an organisation or group with more than one legal entity.</p>
+
+<p>Employers should count employees on an individual basis, not as full-time equivalents. For example, two people sharing a job count as two employees.<br>
+If an employee does not self-identify as either gender, they are excluded from the calculations.<br>
+All employees employed on the snapshot date are included in the bonus pay gap calculations.  This list of people is called "relevant employees".<br>
+A second list of people, called "full-pay relevant employees" is made.  This is the same as the list of "relevant employees", except it excludes anyone who was on reduced pay on the snapshot date due to being on leave.  This list of people are included in the pay quartile, and hourly pay gap calculations.</p>
+<br>
+<p>Note that where one or both genders were not paid bonuses, it can be unclear to employers what they should report for the mean and median bonus pay gap figures.  The numbers for certain employers have been amended when creating this pdf report so as to ensure consistent treatment across employers.</p>
+<br>
+<font size="9"><p>This report contains public sector information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a><br>
+The Gender Pay Gap information is publicly available from <a href="https://gender-pay-gap.service.gov.uk/">gender-pay-gap.service.gov.uk</a>, 
+Industry Classification Codes are available from <a href="https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic">gov.uk</a></p></font>
