@@ -1,0 +1,9 @@
+The Calculation:
+
+A list is made of all male relevant employees.
+The number of men on the list who received bonus pay in the 12 months ending on the snapshot date is divided by the total number of men, then multiplied by 100.
+This number is the percentage of men who recieved bonus pay.
+
+A list is made of all female relevant employees.
+The number of women on the list who received bonus pay in the 12 months ending on the snapshot date is divided by the total number of women, then multiplied by 100.
+This number is the percentage of women who recieved bonus pay

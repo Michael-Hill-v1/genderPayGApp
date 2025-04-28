@@ -1,0 +1,13 @@
+The Calculation:
+
+A list is made of all female full-pay relevant employees.
+This list is is put in order from highest to lowest hourly pay.
+The hourly pay of the woman in the middle of the list is the median hourly pay for women.
+
+A list is made of all male full-pay relevant employees.
+This list is is put in order from highest to lowest hourly pay.
+The hourly pay of the man in the middle of the list is the median hourly pay for men.
+
+The median hourly pay for women is subtracted from the median hourly pay for men.
+The result is divided by the median hourly pay for men, then multiplied by 100.
+This number is the median gender pay gap in hourly pay.

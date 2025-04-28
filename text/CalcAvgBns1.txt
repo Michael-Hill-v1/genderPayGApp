@@ -1,0 +1,19 @@
+The Calculation: 
+
+A list is made of all male relevant employees who received bonus pay in the 12 months ending on the snapshot date.
+The sum of bonus pay of these men is divided by the number of men on the list.
+This number is the mean bonus pay for men.
+
+A list is made of all female relevant employees who received bonus pay in the 12 months ending on the snapshot date.
+The sum of bonus pay of these women is divided by the number of women on the list.
+This number is the mean bonus pay for women.
+
+The mean bonus pay for women is subtracted from the mean bonus pay for men.
+The result is divided by the mean bonus pay for men, then multiplied by 100.
+This number is the mean gender pay gap in bonus pay.
+
+Notes:
+
+Bonuses might be a proportion of annual pay. So someone who works part-time might get a lower bonus than a full-time worker doing the same job. And lower earners might get a lower bonus than higher earners.
+
+Some job types might pay higher bonuses. For example, maybe sales staff can earn higher bonuses than admin staff.

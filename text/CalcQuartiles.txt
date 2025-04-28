@@ -1,0 +1,17 @@
+The Calculation:
+
+The list of full-pay relevant employees is put in order from highest to lowest hourly pay.
+The list is divided into quarters.
+The percentage of men and women in each quarter is calculated.
+
+Notes:
+
+Instinctively, we want to see 50% women and 50% men in each quartile, but that might be the wrong thing to look for.  It would help to know what percentage of staff are men and women.  We're not given this, but can we can calculate it from the pay quartile data.
+
+If the split of all staff is very different to 50/50 it would be good to understand why.
+
+When we know the split for all staff, we can look at the quartile data again.  Which quartiles are significantly different to this split?  Why is that?  Are there "boys" jobs and "girls" jobs within the company?  Is one gender favoured over another when it comes to recruitment or promotions?
+
+There are lots of ways to chart this data, but this format is one of the better ones.  All four quartiles should be looked at together in a single chart, with women on one side and men on the other.  This way we can see the shape of the distribution better.  We're looking to see if there are similar numbers of women in each quartile, and similar numbers of men in each quartile.
+
+Remember we have no information as to what the the rates of pay are at the cut-off points between quartiles.  The difference in hourly pay between the top and bottom of a quartile might be small for one quartile, and huge for the next.  And the way the list is made, people who do the same job and get similar pay can end up in different quartiles.

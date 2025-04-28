@@ -1,0 +1,3 @@
+Notes:
+
+A disadvantage of looking at mean pay is that a few people with extremely high or low hourly pay can distort the mean.  

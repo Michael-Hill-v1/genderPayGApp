@@ -1,0 +1,5 @@
+These Timeseries pages look at how the numbers for the company have changed from year to year.  The data might show us that things have changed, but won't tell us why.  There are lots of reasons why the numbers might have changed.  
+
+For example, maybe one year the company outsourced its IT department.  IT is traditionally dominated by well-paid males.  We might expect that both the mean and median hourly pay for men would go down.  In turn, that might make the hourly pay gaps smaller.  It would also move the boundaries of who was in each quartile.
+
+Note that employers were not required to report for 2019, but some chose to anyway.

@@ -1,0 +1,13 @@
+The Calculation:
+
+A list is made of all male relevant employees who received bonus pay in the 12 months ending on the snapshot date.
+This list is ranked from highest to lowest bonus pay.
+The bonus pay of the man in the middle of the list is the median bonus pay for men.
+
+A list is made of all female relevant employees who received bonus pay in the 12 months ending on the snapshot date.
+This list is ranked from highest to lowest bonus pay.
+The bonus pay of the woman in the middle of the list is the median bonus pay for women.
+
+The median bonus pay for women is subtracted from the median bonus pay for men.
+The result is divided by the median bonus pay for men, then multiplied by 100.
+This number is the median gender pay gap in bonus pay.

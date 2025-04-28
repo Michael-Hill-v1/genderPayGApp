@@ -1,0 +1,3 @@
+Notes:
+
+People who didn't get a bonus are excluded from the calculation.  This avoids getting a median bonus pay figure of zero for men or women.  They have been added back in to the chart below to help visualise the median bonus pay gap.  When we order everyone fom high to low by how much bonus they received, obviously these people end up at the bottom.
